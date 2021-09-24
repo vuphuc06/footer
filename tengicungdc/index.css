@@ -1,0 +1,23 @@
+*{ margin: 0; padding: 0;}
+.footer {
+    font-family: 'Scheherazade New', serif;
+    width: 100%;
+    display: flex;
+    background-color: gray;
+    border: solid 1px black;
+}
+
+.name1 {
+    margin-left:70px ;
+    color: white;
+}
+.namen{
+    margin-left:70px ;
+}
+.pnb{
+    color: white
+}
+.sp {
+    display: inline;
+    margin-left: 20px;
+}
