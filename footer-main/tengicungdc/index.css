@@ -1,0 +1,25 @@
+*{ margin: 0; padding: 0;}
+.footer {
+    background-image: url("image/Article\ studio.png");
+    font-family: 'Scheherazade New', serif;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    border: solid 1px black;
+   height: 200px;
+}
+
+.name1 {
+    margin-left:70px ;
+    
+}
+.namen{
+    margin-left:70px ;
+}
+.pnb{
+    
+}
+.sp {
+    display: inline;
+    margin-left: 20px;
+}
