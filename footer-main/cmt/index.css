@@ -1,5 +1,5 @@
 .tennguoicmt {
-        
+
     
     margin-left: 40;
 }
@@ -11,4 +11,16 @@
 .conteinercmt{
     display: flex;
 }
-
+.img {
+    width: 100%;
+}
+.something{
+    background-color: black;
+    height: 70px;
+}
+.text{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+}
